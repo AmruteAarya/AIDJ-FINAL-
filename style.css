@@ -1,0 +1,62 @@
+h3
+{
+    width: 60%;
+}
+
+.heading
+{
+   font-size: 23px;
+   width: 100%;
+   margin: 0px; 
+}
+.note
+{
+    font-size: 15px;
+    color: white;
+    width: 60%;
+}
+body
+{
+ background-size: cover;
+}
+.playbutton
+{
+    width:130px;
+    font-size:25px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    width: 50px;
+}
+.div_speed
+{
+    float: left;
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed_image
+{
+  border-radius:100px;
+}
+#speed
+{
+    width: 100px;
+    margin:15px;
+}
+.div_volume
+{
+    float: right;
+    width: 200px;
+    border-radius: 100px;
+}
+.div_volume_image
+{
+    border-radius:100px;
+}
+#volume
+{
+    width:100px;
+    margin:15px;
+}
